@@ -1,5 +1,5 @@
 /* Account, Withdraw, and Deposit
-@Pratik Hajare - ATM Interface */
+@Shankar Marne - ATM Interface */
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
