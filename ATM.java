@@ -1,5 +1,5 @@
 /* Main Class
-@Pratik Hajare - ATM Interface */
+@Shankar Marne - ATM Interface */
 
 import java.io.IOException;
 
